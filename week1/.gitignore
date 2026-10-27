@@ -1,0 +1,19 @@
+# Служебные файлы платформы
+DumpFilesIndex.txt
+ConfigDumpInfo.xml
+*.log
+*.tmp
+*.bak
+.1CV8/
+
+# Бинарные файлы конфигурации
+**/ParentConfigurations/*.cf
+*.zip
+*.rar
+
+# Настройки среды разработки
+.settings/
+.metadata/
+
+# Локальные настройки инструментов
+tools/local.json
