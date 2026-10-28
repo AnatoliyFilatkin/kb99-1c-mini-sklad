@@ -251,12 +251,16 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
+			<DefinedType>Денежный</DefinedType>
 			<Constant>ИНН</Constant>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>Склады</Catalog>
 			<Document>Поступления</Document>
 			<Document>Реализации</Document>
+			<Report>ВедомостьОстатковПоСкладу</Report>
+			<AccumulationRegister>ОстаткиНаСкладах</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
