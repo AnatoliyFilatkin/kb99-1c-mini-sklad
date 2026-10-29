@@ -260,6 +260,7 @@
 			<Document>Поступления</Document>
 			<Document>Реализации</Document>
 			<Report>ВедомостьОстатковПоСкладу</Report>
+			<Report>ОборотыПоТоварам</Report>
 			<AccumulationRegister>ОстаткиНаСкладах</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
