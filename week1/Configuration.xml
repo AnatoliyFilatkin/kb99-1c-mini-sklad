@@ -251,6 +251,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
+			<CommonPicture>ОбщаяКартинка1</CommonPicture>
 			<DefinedType>Денежный</DefinedType>
 			<Constant>ИНН</Constant>
 			<Catalog>Товары</Catalog>
@@ -261,7 +262,11 @@
 			<Document>Реализации</Document>
 			<Report>ВедомостьОстатковПоСкладу</Report>
 			<Report>ОборотыПоТоварам</Report>
+			<Report>ВыручкаПоНоменклатуре</Report>
+			<Report>ОтчетПоПартиям</Report>
 			<AccumulationRegister>ОстаткиНаСкладах</AccumulationRegister>
+			<AccumulationRegister>ПродажиПоНоменклатуре</AccumulationRegister>
+			<AccumulationRegister>ТоварыПоПартиям</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
